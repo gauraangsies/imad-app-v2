@@ -68,3 +68,20 @@ header {
     overflow:hidden;
 
 }
+header > ul{
+color:white;
+float:left;
+}
+li > a{
+    color:white;
+    text-decoration:none;
+}
+
+li > a:hover{
+    color:lightblue;
+}
+header > ul > li{
+    display: inline;
+    color:white;
+    padding:10px 20px;
+}
