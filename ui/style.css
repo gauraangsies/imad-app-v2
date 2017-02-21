@@ -21,7 +21,7 @@ body {
     border:1pt solid black;
     border-radius:20pt;
     margin-left:40%;
-    width:300px;
+    width:400px;
 }
 
 .text-big {
@@ -30,7 +30,7 @@ body {
 }
 
 .text-medium {
-    font-size: 22px;
+    font-size: 28px;
     font-family: 'Dancing Script', cursive;
 }
 
