@@ -85,3 +85,17 @@ header > ul > li{
     color:white;
     padding:10px 20px;
 }
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #304c64;
+    border: 4pt solid white;
+    
+}
+
+.jumbotron:hover{
+box-shadow: 2pt 2pt 20pt black;
+}
