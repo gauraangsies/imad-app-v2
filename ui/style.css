@@ -91,7 +91,7 @@ header > ul > li{
     padding-bottom: 30px;
     margin-bottom: 30px;
     color: inherit;
-    background-color: #304c64;
+    background-color: rgba(0,0,0,0.86);
     border: 4pt solid white;
     
 }
