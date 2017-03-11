@@ -100,3 +100,7 @@ header > ul > li{
 .jumbotron:hover{
 box-shadow: 2pt 2pt 20pt black;
 }
+.navbar-inverse{
+    background:black;
+    background:rgba(0,0,0,0.86);
+}
