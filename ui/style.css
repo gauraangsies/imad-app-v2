@@ -99,10 +99,20 @@ header > ul > li{
     
 }
 
+.jumbotron-center {
+    text-align:center;
+}
+
 .jumbotron:hover{
 box-shadow: 2pt 2pt 20pt black;
 }
 .navbar-inverse{
     background:black;
     background:rgba(0,0,0,0.86);
+}
+
+.star{
+background:url('ui/black_star.png');
+    
+
 }
