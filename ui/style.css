@@ -132,7 +132,7 @@ box-shadow: 2pt 2pt 20pt black;
   height: 50px;
   overflow: hidden;
   position: relative;
-  background: url('ui/black_star.png');
+  background: url('black_star.png');
   background-size: contain;
 }
 .star-rating i {
@@ -143,7 +143,7 @@ box-shadow: 2pt 2pt 20pt black;
   height: 100%;
   /* width: 20%; remove this */
   z-index: 1;
-  background: url('ui/yellow_star.png');
+  background: url('yellow_star.png');
   background-size: contain;
 }
 
